@@ -1,3 +1,4 @@
 - Service discovery
 - Metrics and monitoring
 - Immutable infrastructure 
+- Docker workshop (Play with all the new fancy stuff, like networking)
