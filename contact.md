@@ -18,8 +18,11 @@ You can reach our organising team by email at **[organisers@devops.capetown](mai
 
 * [Adrian Moisey](mailto:adrian@devops.capetown)
 * [Cobus Bernard](mailto:cobus@devops.capetown)
+* [Graeme Glass](mailto:graeme@devops.capetown)
 * [Julia Quickfall](mailto:julia@devops.capetown)
+* [Keegan Carruthers-Smith](mailto:keegan@devops.capetown)
 * [Tom Bamford](mailto:tom@devops.capetown)
+* [Will Stewart](mailto:will@devops.capetown)
 
 # Contribute
 
